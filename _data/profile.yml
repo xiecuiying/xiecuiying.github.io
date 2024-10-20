@@ -4,9 +4,9 @@ navbar_name: "Cuiying Xie"
 
 
 positions:
-- logo: /assets/images/badges/logo.JPG  # Logo is optional
+- logo: /assets/images/badges/logo.png  # Logo is optional
   name: M.Sc. in Pharmacy 
-- logo: /assets/images/badges/logo.JPG
+- logo: /assets/images/badges/logo.png
   name: B.Sc. in Clinical Pharmacy
 
 
@@ -36,15 +36,15 @@ portrait_caption: >-
 
 education:
 - name: Southern Medical University (SMU) - Nanfang Hospital
-  logo: /assets/images/badges/IMG_9979.JPG
-  /assets/images/badges/logo.jpg
+  logo: /assets/images/badges/IMG_9979.png
+  #/assets/images/badges/logo.png
   position: |-
     Department of Center for Drug Clinical Research (GCP)
     Department of Clinical Pharmacy Center
   description: M.Sc. in Pharmacy
   date: Sep. 2021 - present
 - name: Southern Medical University (SMU)
-  logo: /assets/images/badges/logo.jpg
+  logo: /assets/images/badges/logo.png
   position: B.Sc. in Clinical Pharmacy
   date: Sep. 2016 - Jul. 2021
 
