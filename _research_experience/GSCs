@@ -1,21 +1,21 @@
 ---
-title:          "Development of a radiotherapy resistant stem cell model in glioblastoma (GBM) cell lines through repeated radiation screening: Isolation, identification, and investigation of resistance mechanisms"
-date:           2023.3-2024.2
-selected:       true
-abstract: >-
-  Hepatocellular carcinoma is one of the malignancies worldwide with a high mortality rate and an increasing incidence. Molecular Targeted agents are its common first-line treatment. Organoid technology, as a cutting-edge technology, is gradually being applied in the development of therapeutic oncology. Organoid models can be used to perform sensitivity screening of targeted drugs to facilitate the development of innovative therapeutic agents for the treatment of hepatocellular carcinoma. The purpose of this review is to provide an overview of the opportunities and challenges of hepatocellular carcinoma organoids in targeted drug sensitivity testing as well as a future outlook.
-cover:          /assets/images/covers/fonc-12-1105454-g004.jpg
-authors:
-- Cuiying Xie*
-
-links:
-  Paper: https://doi.org/10.3389/fonc.2022.1105454
-        
-        
-        
-        
-        
-        
-        
-        
+show: true
+width: 4
+date: 2020-01-12 00:01:00 +0800
 ---
+<div>
+  <img data-src="{{ 'assets/images/covers/cover1.jpg' | relative_url }}" class="lazy w-100 rounded-sm" src="{{ '/assets/images/empty_300x200.png' | relative_url }}">
+
+  <div class="card-img-overlay" style="overflow: scroll; background: rgb(255,255,255,0.8)">
+    <h5 class="card-title">Image Lazyload</h5>
+    <p class="card-text">
+      It is highly recommended to use lazyload for images to improve page loading speed, especially for pages with many images.
+      Example code snippet:
+    </p>
+    <p class="card-text">
+      {% raw %}
+      <code>&lt;img data-src=&quot;[Image URL]&quot; class=&quot;lazy w-100 rounded-sm&quot; src=&quot;{{ '/assets/images/empty_300x200.png' | relative_url }}&quot;&gt;</code>
+      {% endraw %}
+    </p>
+  </div>
+</div>
