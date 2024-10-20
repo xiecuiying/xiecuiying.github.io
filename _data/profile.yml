@@ -29,8 +29,6 @@ short_bio: >-
   <p>
     
 I am currently pursuing a Master of Science in Pharmacy at Southern Medical University (SMU), where I focus on understanding and addressing the challenges of drug resistance and radioresistance in glioblastoma. My work involves designing and constructing nanodelivery systems, such as liposomes, to achieve targeted drug delivery for brain tumors, aiming to overcome the radiotherapy resistance associated with glioblastoma.
-  </p>
-  <p>
 Additionally, my studies and research take place in the Center for Drug Clinical Research (GCP) at Nanfang Hospital, where I participate in various clinical trial studies. One notable project is a phase 3 randomized, double-blind, placebo-controlled clinical trial sponsored by Merck & Co. to evaluate the efficacy, immunogenicity, and safety of the 9-valent human papillomavirus (HPV) vaccine (V503) in Chinese men aged 20 to 45. In this project, I have been involved in multiple aspects, including subject education and enrollment screening, drug administration, blood sample processing, and subject follow-up.
 
 
@@ -41,10 +39,9 @@ portrait_caption: >-
   Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
 
 education:
-- name: Southern Medical University (SMU)
+- name: Southern Medical University (SMU) - Nanfang Hospital
   logo: /assets/images/badges/MIT_Social_circle.png
   position: 
-    - Department:
     - Center for Drug Clinical Research (GCP), Nanfang Hospital, Southern Medical University
     - Clinical Pharmacy Center, Nanfang Hospital, Southern Medical University
   description: Master's student
