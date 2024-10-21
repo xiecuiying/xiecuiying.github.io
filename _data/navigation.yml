@@ -1,7 +1,8 @@
 pages:
 - name: Home
   url: /
-- name: Publications
-  url: /publications
 - name: Research  experience & Showcase
   url: /showcase
+- name: Publications
+  url: /publications
+
