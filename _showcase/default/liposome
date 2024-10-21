@@ -7,7 +7,7 @@ date: 2024-01-01 00:00:00 +0800
   <img data-src="{{ 'assets/images/covers/cover.png' | relative_url }}" class="lazy w-100 rounded-sm" src="{{ '/assets/images/empty_300x200.png' | relative_url }}">
   
   <div class="card-img-overlay" style="overflow: scroll; background: rgb(255,255,255,0.8)">
-    <h5>iRGD modified liposomes for the co-delivery of two drugs to overcome <strong>radiotherapy resistance</strong> in glioblastoma (GBM)</h5>
+    <h5>iRGD modified liposomes for the co-delivery of two drugs to overcome <code>radiotherapy resistance</code> in glioblastoma (GBM)</h5>
     <hr />
     <p>
        Master's thesis, project is ongoing...
@@ -15,12 +15,12 @@ date: 2024-01-01 00:00:00 +0800
     <p>
        Glioblastoma is a highly malignant central nervous system tumor. 
        Surgical resection combined with radiotherapy and temozolomide chemotherapy is currently the first-line treatment. 
-       However, many challenges arise during treatment, such as <strong>drug resistance</strong> and <strong>radioresistance</strong>. 
-       My research utilizes a <strong>radioresistant cell line model</strong> established in previous studies. 
-       By integrating <strong>bioinformatics</strong> approaches, I investigate the changes in signaling pathways within the radioresistant cells and select two drugs targeting these pathways.
+       However, many challenges arise during treatment, such as <code>drug resistance</code> and <code>radioresistance</code>. 
+       My research utilizes a <code>radioresistant cell line model</code> established in previous studies. 
+       By integrating <code>bioinformatics</code> approaches, I investigate the changes in signaling pathways within the radioresistant cells and select two drugs targeting these pathways.
     </p>
     <p>
-       To achieve targeted drug delivery to glioblastoma, I developed a <strong>liposome</strong> modified with the <strong>iRGD</strong> peptide. 
+       To achieve targeted drug delivery to glioblastoma, I developed a <code>liposome</code> modified with the <code>iRGD</code> peptide. 
        iRGD can bind to CD51/CD61 and CD304 on the surface of GBM cells, mediating the endocytosis of the liposomes and enabling targeted drug delivery. 
        Additionally, iRGD receptors are also expressed in the tumor's neovasculature, facilitating the penetration of liposomes into the tumor.
     </p>
