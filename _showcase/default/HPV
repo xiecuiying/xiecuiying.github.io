@@ -1,0 +1,21 @@
+---
+show: true
+width: 4
+date: 2020-01-12 00:01:00 +0800
+---
+<div>
+  <img data-src="{{ 'assets/images/covers/MSD.jpg' | relative_url }}" class="lazy w-100 rounded-sm" src="{{ '/assets/images/empty_300x200.png' | relative_url }}">
+
+  <div class="card-img-overlay" style="overflow: scroll; background: rgb(255,255,255,0.8)">
+    <h5 class="card-title">Drug clinical trail projects</h5>
+    <p class="card-text">
+      A <code>phase 3 randomized, double-blind, placebo-controlled clinical trial</code> to evaluate the efficacy, 
+immunogenicity, and safety of the 9-valent human papillomavirus (HPV) vaccine (V503) in Chinese men aged 20 to 45.
+    </p>
+    <p class="card-text">
+      {% raw %}
+       Participated in multiple aspects of the project, including subject education and enrollment screening, drug administration, blood sample processing, and subject follow-up.
+      {% endraw %}
+    </p>
+  </div>
+</div>
