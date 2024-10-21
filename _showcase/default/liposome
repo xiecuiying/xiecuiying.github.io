@@ -1,33 +1,34 @@
 ---
 show: true
-width: 4
+width: 6
 date: 2024-01-01 00:00:00 +0800
 ---
 
 <div class="p-4">
-    <h5>iRGD modified liposomes for the co-delivery of two drugs to overcome <code>radiotherapy<code> <code>resistance<code> in glioblastoma (GBM)</h5>
+    <h5>iRGD modified liposomes for the co-delivery of two drugs to overcome <code>radiotherapy</code> <code>resistance</code> in glioblastoma (GBM)</h5>
     <hr />
     <p>
        Master's thesis, project is ongoing...
-    <p>
+    </p>
     <p>
        Glioblastoma is a highly malignant central nervous system tumor. 
-Surgical resection combined with radiotherapy and temozolomide chemotherapy is currently the first-line treatment. 
-However, many challenges arise during treatment, such as <code>drug<code> <code>resistance<code> and <code>radioresistance<code>. 
-My research utilizes a <code>radioresistant<code> <code>cell<code> <code>line<code> <code>model<code> established in previous studies. 
-By integrating <code>bioinformatics<code> approaches, I investigate the changes in signaling pathways within the radioresistant cells and select two drugs targeting these pathways.
+       Surgical resection combined with radiotherapy and temozolomide chemotherapy is currently the first-line treatment. 
+       However, many challenges arise during treatment, such as <code>drug</code> <code>resistance</code> and <code>radioresistance</code>. 
+       My research utilizes a <code>radioresistant</code> <code>cell</code> <code>line</code> <code>model</code> established in previous studies. 
+       By integrating <code>bioinformatics</code> approaches, I investigate the changes in signaling pathways within the radioresistant cells and select two drugs targeting these pathways.
+    </p>
     <p>
-    <P>
-       To achieve targeted drug delivery to glioblastoma, I developed a <code>liposome<code> modified with the <code>iRGD<code> peptide. 
-iRGD can bind to CD51/CD61 and CD304 on the surface of GBM cells, mediating the endocytosis of the liposomes and enabling targeted drug delivery. 
-Additionally, iRGD receptors are also expressed in the tumor's neovasculature, facilitating the penetration of liposomes into the tumor.
+       To achieve targeted drug delivery to glioblastoma, I developed a <code>liposome</code> modified with the <code>iRGD</code> peptide. 
+       iRGD can bind to CD51/CD61 and CD304 on the surface of GBM cells, mediating the endocytosis of the liposomes and enabling targeted drug delivery. 
+       Additionally, iRGD receptors are also expressed in the tumor's neovasculature, facilitating the penetration of liposomes into the tumor.
+    </p>
     <p>
        In this study, I constructed iRGD-modified dual-drug liposomes and conducted a series of characterizations. 
-      The results indicated that the liposomes I developed are stable, with uniform particle size and good morphology. 
-     In vitro experiments demonstrated that the iRGD-modified liposomes exhibit excellent targeting capability towards tumor cells. 
-     Furthermore, in vitro evaluations showed that these liposomes can enhance the radiosensitivity of glioblastoma. In vivo experiments with the liposome combined with radiotherapy significantly inhibited tumor growth in nude mice, improved the effects of radiotherapy, and extended the survival time of the mice.
+       The results indicated that the liposomes I developed are stable, with uniform particle size and good morphology. 
+       In vitro experiments demonstrated that the iRGD-modified liposomes exhibit excellent targeting capability towards tumor cells. 
+       Furthermore, in vitro evaluations showed that these liposomes can enhance the radiosensitivity of glioblastoma. In vivo experiments with the liposome combined with radiotherapy significantly inhibited tumor growth in nude mice, improved the effects of radiotherapy, and extended the survival time of the mice.
+    </p>
     <p>
-    <p>
-Currently, histological-related experiments are still ongoing. Meanwhile, I am organizing data and writing the manuscript...
- </p>
+       Currently, histological-related experiments are still ongoing. Meanwhile, I am organizing data and writing the manuscript...
+    </p>
 </div>
