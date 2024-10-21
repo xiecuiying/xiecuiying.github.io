@@ -1,0 +1,26 @@
+---
+show: true
+width: 12
+date: 2019-01-12 00:01:00 +0800
+---
+<div>
+  <img data-src="{{ 'assets/images/covers/GSC.jpg' | relative_url }}" class="lazy w-100 rounded-sm" src="{{ '/assets/images/empty_300x200.png' | relative_url }}">
+
+  <div class="card-img-overlay" style="overflow: scroll; background: rgb(255,255,255,0.8)">
+    <h5 class="card-title">Development of a radiotherapy resistant stem cell model in glioblastoma (GBM) cell lines through repeated radiation screening: Isolation, identification, and investigation of resistance mechanisms</h5>
+    <p class="card-text">
+      The project has been completed, and the manuscript is being prepared...
+    </p>
+    <p>
+In this study, I established a radioresistant glioblastoma cell line. The specific approach involved isolating <code>glioblastoma stem cells (GSCs)</code> from the U87 cell line and treating the GSCs with a 5 Gy dose of radiotherapy, selecting for surviving cells, a process that was repeated 13 times. Ultimately, a radioresistant GSC cell line was obtained. Validation showed that this cell line highly expresses several stem cell markers, such as CD133 and SOX2.
+    </p>
+    <p>
+To further simulate the role of GSCs within the tumor, I induced <code>differentiation</code> in the GSCs. The differentiated cells were named Diff cells. Through in vitro validations, including cell viability assays and apoptosis tests, I found that Diff cells exhibited a significantly greater insensitivity to radiotherapy compared to U87 cells. Additionally, I discovered that Diff cells demonstrated markedly lower sensitivity to TMZ compared to U87 cells, suggesting a possible link between radioresistance and drug resistance.
+    </p>
+    <p class="card-text">
+      {% raw %}
+       Participated in multiple aspects of the project, including subject education and enrollment screening, drug administration, blood sample processing, and subject follow-up.
+      {% endraw %}
+    </p>
+  </div>
+</div>
