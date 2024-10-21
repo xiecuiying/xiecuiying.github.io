@@ -1,0 +1,34 @@
+---
+show: true
+width: 12
+date: 2019-12-12 00:01:00 +0800
+---
+<div class="p-4">
+    <h5 class="card-title">Construction of a tumor immunity related clinical prediction model for glioblastoma (GBM) based on lncRNA using the TCGA database.</h5>
+  <p class="card-text">
+      The project has been completed, and the manuscript is being prepared...
+    </p>
+    <p>
+     This is an <strong>independent training project</strong> aimed at enhancing my skills in the field of bioinformatics. </p>
+    </p>
+    <p>
+     I utilized primary tumor sample data from the TCGA database for glioblastoma (GBM). By conducting ssGSEA scoring based on a dataset comprised of 32 gene sets, 
+I classified the samples into two subtypes according to their scores. 
+I then extracted the lncRNAs and applied the <code>WGCNA</code> method to identify a series of co-expression modules. 
+I evaluated the core genes within the modules that exhibited high module membership (MM) and high gene significance (GS), 
+exploring the correlation between these core genes and a variety of immune-related gene expressions, performing enrichment analysis of highly correlated genes, 
+and analyzing survival differences following consensus clustering.
+    </p>
+    <p>
+     Subsequently, I selected the blue module for analysis. I constructed a clinical prediction model using <code>Lasso regression</code> and assessed the prognostic value of risk features through <code>COX regression analysis</code>. 
+Based on the model, I employed package OncoPredict for <code>drug sensitivity prediction</code>. The analysis revealed that the high-risk group exhibited a significantly lower IC50 for Erlotinib.
+Based on the analysis results, I evaluated the efficacy of Erlotinib in different glioblastoma cell lines, including U87, U251, and U118. I found that Erlotinib showed good efficacy against these cell lines, and when used in combination with Temozolomide, there was a slight synergistic effect.
+     </p>
+     <p>
+     This is an independent research training program that draws inspiration from previously published articles, though it still has <strong>many shortcomings</strong>, such as not splitting the TCGA data into internal training and validation sets for model construction and validation, and not using external datasets to verify the model's reliability. Additionally, the COX regression analysis is incomplete.
+     </p>
+     <p>
+     However, this project has significantly improved my bioinformatics skills, especially my proficiency in R, and has also trained my scientific thinking.
+    </p>
+  </div>
+</div>
