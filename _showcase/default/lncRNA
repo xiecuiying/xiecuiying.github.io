@@ -1,6 +1,6 @@
 ---
 show: true
-width: 4
+width: 6
 date: 2019-12-12 00:01:00 +0800
 ---
 <div class="p-4" style="width: 100%; height: 300px; overflow: auto;">
