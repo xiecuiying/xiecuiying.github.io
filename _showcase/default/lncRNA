@@ -1,5 +1,5 @@
 ---
-show: false
+show: true
 width: 6
 date: 2019-12-12 00:01:00 +0800
 ---
@@ -31,4 +31,4 @@ Based on the analysis results, I evaluated the efficacy of Erlotinib in differen
      However, this project has significantly improved my bioinformatics skills, especially my proficiency in R, and has also trained my scientific thinking.
     </p>
   </div>
-</div>
+
