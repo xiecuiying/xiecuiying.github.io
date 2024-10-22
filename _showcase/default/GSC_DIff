@@ -15,7 +15,7 @@ date: 2019-01-12 00:01:00 +0800
       To further simulate the role of GSCs within the tumor, I induced <code>differentiation</code> in the GSCs. The differentiated cells were named Diff cells. Through in vitro validations, including cell viability assays and apoptosis tests, I found that Diff cells exhibited a significantly greater insensitivity to radiotherapy compared to U87 cells. Additionally, I discovered that Diff cells demonstrated markedly lower sensitivity to TMZ compared to U87 cells, suggesting a possible link between radioresistance and drug resistance.
     </p>
     <p class="card-text">
-      Participated in multiple aspects of the project, including subject education and enrollment screening, drug administration, blood sample processing, and subject follow-up.
-    </p>
+     Finally, I performed whole transcriptome sequencing on U87, GSCs, and Diff cells for bioinformatics analysis, laying the foundation for subsequent research.
+     </p>
   </div>
 </div>
