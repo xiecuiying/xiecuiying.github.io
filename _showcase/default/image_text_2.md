@@ -1,6 +1,6 @@
 ---
-show: true
-width: false
+show: false
+width: true
 date: 2009-01-12 00:01:00 +0800
 group: Showcase
 ---
