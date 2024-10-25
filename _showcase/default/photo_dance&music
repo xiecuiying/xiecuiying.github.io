@@ -11,10 +11,10 @@ images:
 - src: assets/images/photos/livehouse1.JPG
   title: Love music
   desc: Went to live house
-- src: assets/images/photos/livehouse2.JPG
+- src: assets/images/photos/livehouse2.jpeg
   title: Love music
   desc: Went to live house
-- src: assets/images/photos/music.jpg
+- src: assets/images/photos/music.jpeg
   title: Love music
   desc: Participated in music festivals
 ---
