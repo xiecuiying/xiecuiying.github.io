@@ -2,6 +2,7 @@
 show: true
 width: 6
 date: 2019-12-12 00:01:00 +0800
+group: Research experience
 ---
 <div class="p-4" style="width: 100%; height: 365px; overflow: auto;">
     <h5 class="card-title">Construction of a tumor immunity related clinical prediction model for glioblastoma (GBM) based on lncRNA using the TCGA database.</h5>
