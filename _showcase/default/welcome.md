@@ -2,6 +2,7 @@
 show: true
 width: 12
 date: 2010-01-12 00:01:00 +0800
+group: Showcase
 ---
 <div>
   <img data-src="{{ 'assets/images/covers/caoping.jpg' | relative_url }}" class="lazy w-100 rounded-sm" src="{{ '/assets/images/empty_300x200.png' | relative_url }}">
