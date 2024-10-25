@@ -1,0 +1,15 @@
+---
+show: true
+width: 6
+date: 2009-02-12 00:01:00 +0800
+group: Showcase
+---
+<div>
+  <img data-src="/assets/images/photos/dahui.jpeg" class="lazy w-100 rounded-top" src="{{ '/assets/images/empty_300x200.png' | relative_url }}">
+  <div class="card-body">
+    <h5 class="card-title">Activities</h5>
+    <p class="card-text">
+      Attended an academic conference
+    </p>
+  </div>
+</div>
