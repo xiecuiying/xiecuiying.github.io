@@ -8,7 +8,6 @@ images:
 - src: assets/images/photos/gsc.png
   title: GSCs
 - src: assets/images/photos/CCk8.png
-  title: <span style="color: black;">Radiotherapy Resistance</span>
 ---
 
 {% include widgets/carousel.html id=page.id images=page.images height=page.height %}
