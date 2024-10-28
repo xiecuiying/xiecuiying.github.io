@@ -1,0 +1,22 @@
+---
+show: true
+width: 3
+date: 2009-09-11 00:01:00 +0800
+group: Research experience
+height: 400px
+images:
+- src: assets/images/photos/LP.png
+  title: iRGD modified liposomes
+  desc: iRGD modified liposomes for the co-delivery of two drugs
+- src: assets/images/photos/lysome.png
+  title: Confocal microscopy images
+  desc: the lysosomal escape of liposomes
+- src: assets/images/photos/baxiang.png
+  title: Fluorescence imaging
+  desc: in vivo targeting of liposomes
+- src: assets/images/photos/diaowang.png
+  title: Flow cytometry analysis
+  desc: liposome-mediated radiosensitization
+---
+
+{% include widgets/carousel.html id=page.id images=page.images height=page.height %}
