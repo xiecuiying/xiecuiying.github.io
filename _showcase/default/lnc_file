@@ -1,0 +1,17 @@
+---
+show: true
+width: 3
+date: 2023-12-30 00:01:00 +0800
+height: 295px
+group: Research experience
+images:
+- src: assets/images/photos/sub.png
+- src: assets/images/photos/WGCNA.png
+- src: assets/images/photos/heatmap.png
+- src: assets/images/photos/lasso.png
+- src: assets/images/photos/cox.png
+- src: assets/images/photos/km.png
+- src: assets/images/photos/roc.png
+---
+
+{% include widgets/carousel.html id=page.id images=page.images height=page.height %}
