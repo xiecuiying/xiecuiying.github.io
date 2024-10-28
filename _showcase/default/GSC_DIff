@@ -1,10 +1,10 @@
 ---
 show: true
 width: 8
+height: 350px
 date: 2019-01-12 00:01:00 +0800
 group: Research experience
 ---
- <div style="height: 350; overflow: auto;">
 <div class="p-4">
     <h5 class="card-title">Development of a radiotherapy resistant stem cell model in glioblastoma (GBM) cell lines through repeated radiation screening: Isolation, identification, and investigation of resistance mechanisms</h5>
   <p class="card-text">
@@ -20,4 +20,4 @@ group: Research experience
      Finally, I performed whole transcriptome sequencing on U87, GSCs, and Diff cells for bioinformatics analysis, laying the foundation for subsequent research.
      </p>
   </div>
-</div>
+
