@@ -15,8 +15,6 @@ images:
   title: Fluorescence imaging
   desc: in vivo targeting of liposomes
 - src: assets/images/photos/diaowang.png
-  title: <dark>Flow cytometry analysis</dark>
-  desc: liposome-mediated radiosensitization
 ---
 
 {% include widgets/carousel.html id=page.id images=page.images height=page.height %}
