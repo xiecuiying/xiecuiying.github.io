@@ -1,0 +1,14 @@
+---
+show: true
+width: 3
+date: 2023-12-30 00:01:00 +0800
+height: 250px
+group: Research experience
+images:
+- src: assets/images/photos/gsc.png
+  title: GSCs
+- src: assets/images/photos/CCk8.png
+  title: Radiotherapy Resistance
+---
+
+{% include widgets/carousel.html id=page.id images=page.images height=page.height %}
