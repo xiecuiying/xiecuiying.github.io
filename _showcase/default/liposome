@@ -5,7 +5,8 @@ date: 2024-01-01 00:00:00 +0800
 height: 500px
 group: Research experience
 ---
-<div class="p-4">
+<div style = "height: 500px; overflow: auto;">
+ <div class="p-4">
     <h5>iRGD modified liposomes for the co-delivery of two drugs to overcome <code>radiotherapy resistance</code> in glioblastoma (GBM)</h5>
     <hr />
     <p>
@@ -33,3 +34,4 @@ group: Research experience
        Currently, histological-related experiments are still ongoing. Meanwhile, I am organizing data and writing the manuscript...
     </p>
   </div>
+</div>
