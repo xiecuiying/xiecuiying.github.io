@@ -18,5 +18,10 @@ images:
   title: Love music
   desc: Participated in music festivals
 ---
-
+<style>
+  .carousel-image img {
+    width: 100%;   
+    height: auto;  
+  }
+</style>
 {% include widgets/carousel.html id=page.id images=page.images height=page.height %}
