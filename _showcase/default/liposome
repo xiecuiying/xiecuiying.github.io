@@ -2,6 +2,7 @@
 show: true
 width: 9
 date: 2024-01-01 00:00:00 +0800
+height: 500px
 group: Research experience
 ---
 <div class="p-4">
