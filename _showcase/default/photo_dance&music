@@ -3,7 +3,7 @@ show: true
 width: 8
 date: 2009-09-11 00:01:00 +0800
 group: Showcase
-height: 350px
+height: 400px
 images:
 - src: assets/images/photos/remix.JPG
   title: Passionate about dance
