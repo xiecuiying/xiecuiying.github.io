@@ -7,6 +7,8 @@ group: Research experience
 images:
 - src: assets/images/photos/gsc.png
   title: GSCs
+- src: assets/images/photos/pca.png
+  title: PCA of 3 cell lines
 - src: assets/images/photos/CCk8.png
 ---
 
